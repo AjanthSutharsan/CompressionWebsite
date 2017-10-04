@@ -1,0 +1,26 @@
+body {
+	background-color: #F0E68C;
+}
+h3 {
+	text-decoration: underline;
+	color: 	#CD5C5C;
+	text-align: center;
+	font-family: Georgia, serif;
+}
+table, td, th {
+   border: 1px solid black;
+}
+table {
+	margin-left: 5.5%;
+}
+td, th, caption {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 16px;
+	color: #6A5ACD;
+	text-align: center;
+}
+.text	{
+	font-family: Georgia, serif;
+	font-size: 20px;
+	color: #20B2AA;
+}
